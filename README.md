@@ -8,4 +8,4 @@ This repository contains a collection of Arduino projects, each designed with pr
 **Folder**: `Temp & Humidity Sensor`  
 In this project, you'll learn how to use the DHT11 sensor to measure temperature and humidity levels. The project includes:
 - The Arduino code (`Temp & Humidity Sensor.ino`)
-- A detailed `README.txt` explaining the components used, wiring connections, and how the code works.
+- A detailed `README.md` explaining the components used, wiring connections, and how the code works.
