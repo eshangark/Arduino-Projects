@@ -9,12 +9,12 @@ This project uses an **Arduino Uno**, **DHT11 Temperature and Humidity Sensor**,
 ## Pin Connections
 1. **DHT11 Sensor**:
    - VCC: Connect to the **5V rail** on the breadboard (powered by the Arduino).
-   - GND: Connect to the **GND rail** on the breadboard.
+   - GND: Connect to the **GND** on Arduino.
    - DATA: Connect to **Arduino pin 2**.
 
 2. **I2C LCD Screen**:
    - VCC: Connect to the **5V rail** on the breadboard.
-   - GND: Connect to the **GND rail** on the breadboard.
+   - GND: Connect to the **GND** on Arduino.
    - SDA: Connect to **Arduino pin A4**.
    - SCL: Connect to **Arduino pin A5**.
 
