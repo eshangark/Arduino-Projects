@@ -21,3 +21,12 @@ In this project, you'll learn how to use an HC-SR04 ultrasonic sensor to measure
 This project uses an HC-SR04 ultrasonic sensor to count the number of people passing through a specific area. The project includes:
 - The Arduino code (`Ultrasonic_People_Counter_3.ino`)
 - A detailed `README.md` explaining the components used, wiring connections, and how the code works.
+
+### Project 4 - Morse Code Translator  
+**Folder**: `Morse Code Translator`  
+In this project, you’ll learn how to implement a Morse code translator using an Arduino and buttons. The project uses the following components:
+- Button inputs for dot, dash, and enter actions
+- A LiquidCrystal I2C display for output
+- The Arduino code (`Morse_Code_Translator_4.ino`)
+- A detailed `README.md` explaining the components used, wiring connections, how the code works, and how to input Morse code for translation.
+
