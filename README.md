@@ -28,3 +28,15 @@ In this project, you’ll learn how to implement a Morse code translator using a
 - The Arduino code (`Morse_Code_Translator_4.ino`)
 - A detailed `README.md` explaining the components used, wiring connections, how the code works, and how to input Morse code for translation.
 
+### Project 5 - Timer Display with Active Buzzer  
+**Folder**: `Timer Display Active Buzzer`  
+In this project, you’ll create a countdown timer with minute and second adjustments using three buttons. The time is displayed on an I2C LCD display. An active buzzer is used to signal when the timer reaches zero, and the display shows a “Timer Over!” message. The project includes:
+- The Arduino code (`Timer_Display_Active_5.ino`)
+- A detailed `README.md` explaining the components used, wiring connections, how the code works, and how to control the timer and buzzer.
+
+### Project 6 - Timer Display with Passive Buzzer  
+**Folder**: `Timer Display Passive Buzzer`  
+This project is similar to the Timer Display with Active Buzzer but replaces the active buzzer with a passive buzzer. The passive buzzer plays a melody when the timer reaches zero. The project includes:
+- The Arduino code (`Timer_Display_Passive_6.ino`)
+- A detailed `README.md` explaining the components used, wiring connections, how the code works, and how the passive buzzer creates a melody when the timer ends.
+
