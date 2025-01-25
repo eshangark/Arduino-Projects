@@ -40,3 +40,14 @@ This project is similar to the Timer Display with Active Buzzer but replaces the
 - The Arduino code (`Timer_Display_Passive_6.ino`)
 - A detailed `README.md` explaining the components used, wiring connections, how the code works, and how the passive buzzer creates a melody when the timer ends.
 
+### Project 7 - IR Decoder  
+**Folder**: `IR Decoder`  
+This project demonstrates how to use an IR receiver to decode signals from an IR remote control. The project includes:
+- The Arduino code (`IR_Decoder_7.ino`)
+- A detailed `README.md` explaining how to capture and decode IR signals, along with wiring instructions.
+
+### Project 8 - Motion-Activated IR Remote  
+**Folder**: `Motion-Activated IR Remote`  
+This project uses a motion sensor to detect motion and send an IR signal to control a device (e.g., a TV). The project includes:
+- The Arduino code (`IR_Motion_TV_8.ino`)
+- A detailed `README.md` explaining the components used, wiring connections, and how to detect motion to trigger an IR signal.
