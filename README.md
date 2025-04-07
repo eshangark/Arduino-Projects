@@ -51,3 +51,15 @@ This project demonstrates how to use an IR receiver to decode signals from an IR
 This project uses a motion sensor to detect motion and send an IR signal to control a device (e.g., a TV). The project includes:
 - The Arduino code (`IR_Motion_TV_8.ino`)
 - A detailed `README.md` explaining the components used, wiring connections, and how to detect motion to trigger an IR signal.
+
+### Project 9 - Button Tester  
+**Folder**: `Button Tester`  
+This simple project allows you to test a push button connected to an Arduino. It prints a message to the Serial Monitor whenever the button is pressed. The project includes:
+- The Arduino code (`Button_Test_9.ino`)
+- A detailed `README.md` explaining the components used, wiring (button connected to digital pin 2 with an internal pull-up), and how the code detects button presses using `digitalRead`.
+
+### Project 10 - Updated IR Decoder (IRremote 4.x)  
+**Folder**: `Updated_4.x_IR_Decoder_10`  
+This updated IR decoder project uses the newer version (4.x) of the `IRremote` library to read and decode signals from an IR remote. It prints the received signal in hexadecimal format to the Serial Monitor. The project includes:
+- The Arduino code (`Updated_IR_Decoder_10.ino`)
+- A detailed `README.md` explaining the components used, wiring (IR receiver connected to digital pin 11), and how the updated library functions with `IrReceiver.begin()` and `IrReceiver.decode()`.
