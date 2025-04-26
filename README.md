@@ -73,7 +73,23 @@ This project integrates an ultrasonic sensor mounted on a servo to create a rada
 - The Arduino code (`Ultrasonic_Radar_11.ino`)  
 - The Processing GUI code (`Ultrasonic_Radar_GUI_11.pde`)  
 - A detailed `README.md` explaining the components used, wiring connections, code logic, and setup instructions for both the Arduino and GUI.
-.
+
+### Project 12 - Soil Moisture Test  
+**Folder**: `soil_moisture_test`  
+Test and calibrate your soil moisture sensor. This project includes:  
+- The Arduino code (`soil_moisture_test.ino`) that reads the analog moisture level and prints it to the Serial Monitor.  
+- A `README.md` explaining wiring, code usage, and calibration guidelines.
+
+### Project 13 - Automatic Irrigation System  
+**Folders**:  
+- `Auto_irrigation_system`  
+- `Auto_irrigation_system_GUI`  
+
+Automatically water your plants based on soil moisture and environmental conditions. This project includes:  
+- The Arduino sketch (`Auto_irrigation_system.ino`) with DHT11, soil moisture sensor, relay-controlled pump, and passive buzzer alerts.  
+- A Python logging script (`log_irrigation.py`) that captures Serial data and writes it to a CSV.  
+- A Processing-based GUI (`Auto_irrigation_system_GUI/Irrigation_GUI.pde`) for real-time visualization of moisture, temperature, and humidity.  
+- `README.md` files in each folder detailing wiring, code operation, and setup steps.
 
 ---
 
