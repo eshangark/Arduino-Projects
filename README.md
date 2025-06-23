@@ -80,7 +80,7 @@ Test and calibrate your soil moisture sensor. This project includes:
 - The Arduino code (`soil_moisture_test.ino`) that reads the analog moisture level and prints it to the Serial Monitor.  
 - A `README.md` explaining wiring, code usage, and calibration guidelines.
 
-### Project 13 - Automatic Irrigation System  
+### Project 13 - Automatic Irrigation System With GUI
 **Folders**:  
 - `Auto_irrigation_system`  
 - `Auto_irrigation_system_GUI`  
